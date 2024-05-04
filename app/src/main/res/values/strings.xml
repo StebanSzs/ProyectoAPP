@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Groceries Store</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="get_started">Ver aplicación</string>
+    <string name="password">Contraseña</string>
+    <string name="sign_in">Iniciar sesión</string>
+    <string name="don_t_have_an_account">No tienes una cuenta?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">Email</string>
+    <string name="name">Nombre</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shop">Tienda</string>
+    <string name="explore">Buscar</string>
+    <string name="favourite">Favorito</string>
+    <string name="profile">Perfil</string>
+    <string name="add_to_basket">Agregar al carrito</string>
+    <string name="nutritions">Nutrition</string>
+    <string name="description">Descripcion</string>
+    <string name="reviews">Valoraciones</string>
+    <string name="welcome_prompt">Hola, tenemos muchos libros para ofrecerte</string>
+    <string name="exclusive_offer">Oferta exclusiva</string>
+    <string name="see_all">Ver todo</string>
+    <string name="best_selling">Mas vendido</string>
+    <string name="recommended">Recomendado</string>
+    <string name="add_to_cart">Agregar al carrito</string>
+    <string name="cart">Carrito</string>
+    <string name="line_item_image">Line Item image</string>
+    <string name="fab">Fab</string>
+    <string name="my_basket">Mi carrito</string>
+    <string name="check_out">Go to Check Out</string>
+    <string name="delivery">Entrega</string>
+    <string name="edit">Edit</string>
+    <string name="payment_method">Payment method</string>
+    <string name="receiver">Receiver</string>
+    <string name="address">Address</string>
+    <string name="phone_number">Numero de celular</string>
+    <string name="update">Actualizar</string>
+    <string name="confirm_order">Confirma la orden</string>
+    <string name="total">Total:</string>
+    <string name="shipping_fee">Shipping fee:</string>
+    <string name="sign_out">Cerrar sesión</string>
+    <string name="sync_success">PRODUCT_SYNC_SUCCESS</string>
+    <string name="sync_status_pref_name">SYNC_PREF_NAME</string>
+    <string name="profile_information">Información de el perfil</string>
+    <string name="order_history">Order History</string>
+    <string name="orden_creada_correctamente">La orden fue creada correctamente</string>
+    <string name="continue_shopping">Continua comprando</string>
+    <string name="your_cart_is_empty">Your cart is empty</string>
+    <string name="authentication_failed">Authentication failed.</string>
+    <string name="authentication_successfully">Authentication successfully.</string>
+    <string name="ok_thank_you">Ok, thank you</string>
+    <string name="your_items_has_been_placed_and_is_on_n_the_way_to_be_processed">Your items has been placed and is on\n the way to be processed</string>
+    <string name="your_order_has_been_accepted">Your order has been accepted</string>
+    <string name="order_created_failed">Fallo al pedir la orden :(</string>
+    <string name="order_success_dialog">SUCCESS_DIALOG</string>
+    <string name="update_profile_successfully">Update profile successfully!</string>
+    <string name="update_profile_failed">Update profile failed!</string>
+    <string name="notification_settings">Ajustes de notificación</string>
+    <string name="order_history_settings">Historial</string>
+    <string name="meal_planning_settings">Libros seleccionados</string>
+
+
+    <string name="notifications">Notifications</string>
+    <string name="show_when_order_created">Show when order created</string>
+    <string name="show_when_promotion_sent">Show when promotion sent</string>
+    <string name="show_when_app_data_is_refreshed">Show when app data refreshed</string>
+
+    <!--    Notification constant-->
+    <string name="order_created_notification_channel_id" translatable="false">order_created_channel</string>
+    <string name="order_created_notification_channel_name" translatable="true">Order created</string>
+
+    <string name="database_synced_notification_channel_id" translatable="false">database_synced_channel</string>
+    <string name="database_synced_notification_channel_name" translatable="true">Database synced</string>
+
+    <string name="promotion_sent_notification_channel_id" translatable="false">promotion_sent_channel</string>
+    <string name="promotion_sent_notification_channel_name" translatable="true">Promotion sent</string>
+    <string name="notification_title">UniBook</string>
+    <string name="delete">Borrar</string>
+    <string name="welcome_to_our_store">Bienvenido a UniBook</string>
+    <string name="get_your_gorceries_in_as_fast_as_one_hour">Get your gorceries in as fast as one hour</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="update_profile">Actualizar perfil</string>
+    <string name="save">Guardar</string>
+    <string name="cd_navigate_back">Navegar hacia atrás</string>
+    <string name="cd_save">Guardar</string>
+</resources>
